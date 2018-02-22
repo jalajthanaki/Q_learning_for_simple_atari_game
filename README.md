@@ -1,9 +1,9 @@
 # Q learning for simple atari game
 
-##Overview
-
 This is a simple example of a type of [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 called [Q learning](https://en.wikipedia.org/wiki/Q-learning). 
+
+## Overview
 
 We are building simple game and using Q-learning algorithm we built the bot which can able to will this simple game
 
@@ -12,18 +12,18 @@ We are building simple game and using Q-learning algorithm we built the bot whic
 	● States: Each cell is a state the agent can be.
 	● Actions: There are only 4 actions. Up, Down, Right, Left.
 
-##Dependencies
+## Dependencies
 
 - Python 2.7
 - tkinter
 
-##Installation
+## Installation
 - To install tkinter You need to execute this command: ```$ sudo apt-get install python-tk```
 
-##Usage
+## Usage
 
 Run `python Learner.py` in terminal to see the the bot in action. It'll find the optimal strategy pretty fast (like in 15 seconds)
 
-##Credits
+## Credits
 
 The credits for this code go to [PhillipeMorere](https://github.com/PhilippeMorere). I've merely created a wrapper to get people started.
