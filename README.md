@@ -1,4 +1,4 @@
-# Q_learning_for_simple_atari_game
+# Q learning for simple atari game
 
 ##Overview
 
