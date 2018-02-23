@@ -31,4 +31,4 @@ Run `python Learner.py` in terminal to see the the bot in action. It'll find the
 
 ## Credits
 
-The credits for this code go to [PhillipeMorere](https://github.com/PhilippeMorere). I've merely created a wrapper to get people started.
+The credits for this code go to [PhillipeMorere](https://github.com/PhilippeMorere) and [joongwha](https://github.com/joongwha). I've merely created a wrapper to get people started.
